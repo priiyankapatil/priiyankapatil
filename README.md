@@ -1,21 +1,159 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>* 🎓 AI & Machine Learning student with a keen interest in developing intelligent and purposeful software.<br>* 💻 Currently expanding my knowledge of Java, Data Structures & Algorithms, SQL, and Machine Learning through hands-on development.<br>* 🚀 Passionate about translating ideas into practical solutions while continually refining my technical skills.<br>* 📖 Driven by curiosity and a commitment to lifelong learning, with a keen interest in exploring emerging technologies.<br>* 🧩 I value analytical thinking, clean code, and the process of solving meaningful problems through technology.<br>* 🌱 Viewing every project as an opportunity to learn, grow, and evolve.<br>
+```markdown
+<h1 align="center">Hi 👋, I'm Priyanka Patil</h1>
 
+<h3 align="center">AI & Machine Learning Undergraduate | Aspiring Software Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyanka-patil-0160b1324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankaapatil1623@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3200&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Undergraduate;Passionate+About+Building+Intelligent+Software;Learning+Java%2C+DSA%2C+SQL+%26+Machine+Learning;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priiyankapatil&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=priiyankapatil&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priiyankapatil&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priiyankapatil&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=priiyankapatil&icon=9&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🎓 AI & Machine Learning student passionate about developing intelligent and purposeful software.
+- 💻 Currently expanding my knowledge of **Java, Data Structures & Algorithms, SQL, and Machine Learning** through hands-on development.
+- 🚀 Focused on translating ideas into practical solutions while continually refining my technical skills.
+- 📖 Driven by curiosity and a commitment to lifelong learning, always exploring emerging technologies.
+- 🧩 I value analytical thinking, clean code, and solving meaningful problems through technology.
+- 🌱 Viewing every project as an opportunity to learn, grow, and evolve as a developer.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;
+<a href="https://github.com/priiyankapatil">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,sql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ Java
+- 📚 Data Structures & Algorithms
+- 🗄️ SQL
+- 🤖 Machine Learning
+- 🌐 Backend Development
+- ⚙️ Software Engineering
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Hybrid Semantic Search System** | Intelligent PDF search using vector embeddings and TF-IDF. | Python |
+| **Inclusive Reading Aid** | Accessibility application integrating OCR, summarization, translation, and text-to-speech. | Python |
+| **Java DSA Practice** | Solutions to Data Structures & Algorithms problems. | Java |
+| **Machine Learning Projects** | Collection of ML experiments and learning projects. | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priiyankapatil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://streak-stats.demolab.com?user=priiyankapatil&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priiyankapatil&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priiyankapatil&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ⭐ Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/priiyankapatil/YOUR_REPOSITORY_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priiyankapatil&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/priiyankapatil/YOUR_REPOSITORY_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priiyankapatil&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+## ✍️ Quote
+
+> *"The expert in anything was once a beginner who chose not to give up."*
+
+---
+
+<p align="center">
+  <b>✨ Learning • Building • Growing — One Commit at a Time ✨</b>
+</p>
+```
+
